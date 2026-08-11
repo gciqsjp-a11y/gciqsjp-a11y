@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=header" alt="header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&height=50&lines=Olá%2C+eu+sou+Gabriel!;Desenvolvedor+em+formação;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=700&height=60&lines=Gabriel+dos+Santos+Francisco;Desenvolvedor+em+forma%C3%A7%C3%A3o;Cybersecurity+Enthusiast+%F0%9F%94%90" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=html5&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -40,7 +40,7 @@ Olá! Meu nome é **Gabriel dos Santos Francisco**, tenho **26 anos** e sou estu
 
 💻 Estou estudando programação e desenvolvimento de software.
 
-☕ Tenho interesse em **Java,Cybersecurity, SQL e desenvolvimento web**.
+☕ Tenho interesse em **Java, Cybersecurity, SQL e desenvolvimento web**.
 
 🔐 Também tenho interesse em **Cybersecurity**.
 
@@ -56,8 +56,4 @@ Olá! Meu nome é **Gabriel dos Santos Francisco**, tenho **26 anos** e sou estu
 🌐 HTML / C++ / JavaScript
 🐙 Git & GitHub
 🔐 Cybersecurity
-
-<!--
-**gciqsjp-a11y/gciqsjp-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
